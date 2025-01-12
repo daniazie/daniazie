@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+A 4th year Software Convergence student in Kyung Hee University specialising in the Data Science Track. 
+- 🔭 I'm primarily interested in Natural Language Processing.
+- ⌨️ Current programming skills include (but are not limited to) Python, C++ and Java
+- 📚 I'm currently self-studying R
 
 <!--
 **daniazie/daniazie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
