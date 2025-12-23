@@ -1,8 +1,8 @@
 ## About Me
-A 4th year Software Convergence student in Kyung Hee University specialising in the Data Science Track. 
-- 🔭 I'm primarily interested in Natural Language Processing.
+A 4th year Software Convergence student at Kyung Hee University specialising in the Data Science Track. Double majoring in Space Science & Astronomy.  
+- 🔭 I'm primarily interested in Natural Language Processing research
+    - Research fields: Controllable text generation, text simplification, machine translation, low-resource languages
 - ⌨️ Current programming skills include (but are not limited to) Python, C++ and Java
-- 📚 I'm currently self-studying R (though admittedly at a very slow pace)
 
 <!--
 **daniazie/daniazie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
