@@ -1,7 +1,7 @@
 ## About Me
 A 4th year Software Convergence student at Kyung Hee University specialising in the Data Science Track. Double majoring in Space Science & Astronomy.  
 - 🔭 I'm primarily interested in Natural Language Processing research
-    - Research fields: Controllable text generation, text simplification, machine translation, low-resource languages
+    - **Research fields:** Controllable text generation, text simplification, machine translation, low-resource languages
 - ⌨️ Current programming skills include (but are not limited to) Python, C++ and Java
 
 <!--
