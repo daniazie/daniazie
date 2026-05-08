@@ -1,8 +1,14 @@
 ## About Me
-A 4th year Software Convergence student at Kyung Hee University specialising in the Data Science Track. Double majoring in Space Science & Astronomy.  
-- 🔭 I'm primarily interested in Natural Language Processing research
-    - **Research fields:** Controllable text generation, text simplification, machine translation, low-resource languages
-- ⌨️ Current programming skills include (but are not limited to) Python, C++ and Java
+Your resident maths and AI nerd.
+### Research Interests
+- NLP (LLM, text generation, etc.)
+- - Low-resource languages
+- Text simplification
+- LLM evaluation
+- Controllable generation
+
+
+[![blog badge](https://img.shields.io/badge/tech_blog-badge?style=plastic&logo=github&color=black&link=https%3A%2F%2Fdaniazie.github.io)](https://daniazie.github.io)
 
 <!--
 **daniazie/daniazie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
