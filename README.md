@@ -8,7 +8,7 @@ Your resident maths and AI nerd.
 - Controllable generation
 
 
-[![blog badge](https://img.shields.io/badge/tech_blog-badge?style=plastic&logo=github&color=black&link=https%3A%2F%2Fdaniazie.github.io)](https://daniazie.github.io)
+[![blog badge](https://img.shields.io/badge/tech_blog-badge?style=flat-square&logo=github&color=black&link=https%3A%2F%2Fdaniazie.github.io)](https://daniazie.github.io)
 
 <!--
 **daniazie/daniazie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
