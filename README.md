@@ -2,7 +2,7 @@
 Your resident maths and AI nerd.
 ### Research Interests
 - NLP (LLM, text generation, etc.)
-- - Low-resource languages
+- Low-resource languages
 - Text simplification
 - LLM evaluation
 - Controllable generation
